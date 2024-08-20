@@ -1,0 +1,17 @@
+node_modules
+package-lock.json
+*.boc
+*.pk
+*.addr
+.vscode
+func
+fift
+lite-client
+
+launch
+conifg
+.idea
+deployed-html
+amm-minter-w.fc
+
+deployed.conifg.json
